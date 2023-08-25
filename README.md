@@ -1,4 +1,4 @@
-THIS IS ARE TESTS FOR MICRO:ALL 
+THESE ARE TESTS FOR MICRO:ALL 
 
 
 > Open this page at [https://l1n3yes.github.io/microall-beta/](https://l1n3yes.github.io/microall-beta/)
